@@ -39,14 +39,14 @@ li{
 display: flex;
 flex-direction: column;
 width: 100%;
-align-items: center;
+align-items: flex-start;
 }
 .content-container {
   display: flex;
   flex-direction: column;
   width: 1216px;
   align-items: center;
-  justify-content:flex-start;
+  justify-content:center;
 }
 
 
