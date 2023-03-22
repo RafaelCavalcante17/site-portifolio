@@ -7,6 +7,7 @@ body{
   padding: 0px;
   overflow-x: hidden;
 }
+
 h1{
   font-family: "montserrat" sans-serif;
 }
@@ -23,6 +24,7 @@ h3{
 h3.verde {
   color: #219653
 }
+
 h4 {
   font-family: "montserrat" sans-serif;
   font-weight: bold;
@@ -39,12 +41,14 @@ li{
   margin-bottom: 12px;
  font-weight: 500;
 } 
+
 .root-container {
 display: flex;
 flex-direction: column;
 width: 100%;
 align-items: flex-start;
 }
+
 .content-container {
   display: flex;
   flex-direction: column;
@@ -83,6 +87,7 @@ align-items: flex-start;
   letter-spacing: -0.015rem;
   font-weight: bold;
 }
+
 .links-navegacao{
   color:#0b0b0b;
   font-size: 16px;
@@ -105,12 +110,14 @@ button{
   padding-right: 12px;
   cursor: pointer;
  }
+
  p.card {
   font-size: 16px;
   margin-top: 8px;
    text-align: center;
    max-width: 70%;
  }
+
  footer{
   display: flex;
 width: 100vw;
@@ -151,6 +158,7 @@ justify-content: center;
   border-width: 4px;
   border-style: solid;
 }
+
 .hero-info-icons-container{
   display: flex;
   flex-direction: row;
@@ -159,6 +167,7 @@ justify-content: center;
   justify-content: space-between;
   margin-top: 24px;
 }
+
 .hero-info-icons-img{
  width: 36px;
  height: 36px;
@@ -174,6 +183,7 @@ justify-content: center;
    padding-top: 64px;
    padding-bottom: 64px;
 }
+
 .ability-cards-container {
   display: grid;
   width: 100%;
@@ -199,6 +209,7 @@ border-radius: 12px;
 border-style: solid;
 padding-top: 16px;
  }
+
 .ability-card-icon-container {
  display: flex;
  align-items: center;
@@ -214,15 +225,18 @@ margin-bottom: 12px;
   width: 40px;
   height: 40px;
 }
+
 .ability-card-subtitle {
   font-size: 16px;
  margin-top: 8px;
   text-align: center;
   max-width: 70%;
 }
+
 .ability-list {
   width: 90%;
 }
+
 .section-portfolio {
   display: flex;
   width: 100%;
@@ -230,6 +244,7 @@ margin-bottom: 12px;
   align-items: center;
   justify-content: flex-start;
 }
+
  .section-portfolio-grid {
   display: grid;
   width: 100%;
@@ -240,6 +255,7 @@ margin-bottom: 12px;
   align-content: center;
   margin-top: 48px;
  }
+
  .section-portfolio-card {
   display: flex;
   flex-direction: column;
@@ -252,12 +268,13 @@ margin-bottom: 12px;
   border-style: solid;
   border-radius: 24px;
  }
+
  .section-portfolio-img {
   width: 220px;
   height: 156px;
   margin-bottom: 12px;
-
  }
+ 
  .section-portfolio-card-links {
   display: flex;
   flex-direction: row;
@@ -265,6 +282,7 @@ margin-bottom: 12px;
   align-items: baseline;
   justify-content: space-between;
  }
+
  .section-portfolio-card-icon-image{
   width: 24px;
   height: 24px;
@@ -279,6 +297,7 @@ margin-bottom: 12px;
   padding-bottom: 64px;
   width: 100%;
  }
+
  .section-experiences-card {
   display: flex;
   flex-direction:row;
@@ -290,6 +309,7 @@ margin-bottom: 12px;
   margin-top: 24px;
   padding: 24px;
  }
+
  .section-experiences-card-img{
   width: 50px;
   height: 50px;
@@ -310,16 +330,19 @@ margin-bottom: 12px;
   font-weight: 500;
   margin: 0px;
  }
+
  .section-experiences-card-subtitle {
   font-family: "Montserrat" sans-serif;
   font-size: 14px;
   margin: 4px 0px 0px 0px;
  }
+
  .section-experiences-card-text{
   font-family: "Montserrat" sans-serif;
   font-size: 12px;
   margin:6px 0px 0px 0px;
  }
+
  .section-contact {
   display: flex;
   flex-direction: column;
@@ -329,12 +352,14 @@ margin-bottom: 12px;
   padding-bottom: 64px;
   width: 100%;
  }
+
 .section-contact-item{
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
 }
+
 .section-contact-item-icon{
   width: 24px;
   height: 24px;
@@ -349,6 +374,7 @@ margin-bottom: 12px;
   align-items: center;
   justify-content: space-between;
 }
+
 .footer-social-icons-container{
   display: flex;
   flex-direction: row;
