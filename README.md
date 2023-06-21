@@ -2,8 +2,12 @@
 
 is a project to begin the studies on HTML, CSS and JS. With the main goal of creating a website with my main professional information.
 
-## Paulo Rafael
+# Paulo Rafael
 <img src="https://github.com/RafaelCavalcante17/site-portifolio/blob/main/preview.png" height="500"/>
+
+## live link:
+
+https://rafaelcavalcante17.github.io/site-portifolio/
 
 
 ## Main concepts applied
